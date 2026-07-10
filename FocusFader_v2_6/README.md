@@ -31,8 +31,7 @@ Mackie Control.
 2. Hold the **NEXT** button and power it **on** while still holding.
 3. When the operation-mode buttons light up, press **SOLO** (Studio One mode).
 
-The lighting will look different from the default MCU mode — that's how you know
-it worked. You can leave it in this mode permanently.
+You can leave it in this mode permanently.
 
 ---
 
